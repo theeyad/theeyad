@@ -26,9 +26,9 @@
 
 ## ⚡ About Me
 
-> _"Crafting pixel-perfect, accessible, and high-performance web applications with modern engineering standards."_
+> _"A man who learned, is learning, and will always learn..."_
 
-Full-Stack & Front-End Developer with hands-on experience architecting production web applications using **Next.js**, **React.js**, **TypeScript**, **Tailwind CSS**, and **Supabase**. Passionate about performance, database integrity, and scalable architectures. Experienced in client deliverables and intensive technical bootcamps (**DEPI** & **NTI**). Currently studying Artificial Intelligence at **Kafr El Sheikh University**.
+Front-End Developer **(React, Next.js, TypeScript)** with back-end integration experience. Bachelor of Artificial Intelligence student (expected 2027).
 
 ```javascript
 const eyadOthman = {
@@ -37,7 +37,7 @@ const eyadOthman = {
   architecture: ["SSR", "SSG", "ISR", "Edge Proxy", "Atomic Design"],
   stateManagement: ["Zustand", "TanStack Query", "Context API"],
   education: "B.Sc. in Artificial Intelligence @ KSU (2023 - 2027)",
-  currentFocus: "Next.js App Router, E-Commerce Infrastructure & UI Performance",
+  currentFocus: "Software Engineering, Full Stack Engineering",
 };
 ```
 
@@ -100,7 +100,7 @@ const eyadOthman = {
   <a href="https://zustand-demo.pmnd.rs/"><img src="https://img.shields.io/badge/Zustand-State-764ABC?style=flat-square&logo=react&logoColor=white" /></a>
 </p>
 
-> **Baskify** is a full-featured production e-commerce platform built with **Next.js 16 (App Router & Turbopack)**, **React 19**, **Supabase (PostgreSQL & SSR Auth)**, **Stripe Payments**, and **Tailwind CSS v4**. Ranked and indexed live on the **first page of Google search results**.
+> **Baskify** is a full-featured production e-commerce platform built with **Next.js 16 (App Router & Turbopack)**, **React 19**, **Supabase (PostgreSQL & SSR Auth)**, **Stripe Payments**, and **Tailwind CSS v4**. Ranked and indexed live on the **first page of Google search results** _for now ofcourse_ :D.
 
 - 🔐 **Frictionless Authentication & 6-Digit Email OTP:** Custom auth flow with Supabase SSR cookies, Google OAuth, and an in-tab 6-digit email verification code that preserves cart state and returns buyers directly to checkout without external redirects.
 - 🛡️ **Thread-Safe Inventory & Race Condition Defense:** Atomic PostgreSQL RPC functions (<code>decrement_product_stock</code>), database constraints (<code>stripe_payment_intent_id</code>), and automated Stripe refund fallback to eliminate overselling and duplicate webhook processing.
@@ -215,13 +215,14 @@ const eyadOthman = {
 ```
    2023 ───►  Enrollment @ Kafr El Sheikh University (B.Sc. in AI)
    2025 ───►  NTI Front-End Bootcamp Trainee (July 2025)
+   2025 ───►  Digital Egypt Pioneers Initiative (DEPI) Graduate (June 2025 - Dec 2025)
    2025 ───►  Freelance Front-End Developer (Oct 2025 - Present)
-   2026 ───►  Digital Egypt Pioneers Initiative (DEPI) Graduate (June 2025 - Jan 2026)
+   2026 ───►  Learning Software Engineering & Full Stack Engineering
 ```
 
 - 💼 **Freelance Full-Stack & Front-End Developer** _(Oct 2025 – Present)_
   - Architecting high-quality responsive web solutions, production client applications, and modular UI component libraries.
-- 🏛️ **Front-End Development Trainee** | _Digital Egypt Pioneers Initiative (DEPI)_ _(June 2025 – Jan 2026)_
+- 🏛️ **Front-End Development Trainee** | _Digital Egypt Pioneers Initiative (DEPI)_ _(June 2025 – Dec 2025)_
   - Government-sponsored program mastering React.js architectures, Tailwind CSS, UI/UX engineering, and best practices.
 - 🎯 **Front-End Bootcamp Trainee** | _National Telecommunication Institute (NTI)_ _(July 2025)_
   - Translated complex Figma design mockups into pixel-perfect, accessible web components.
@@ -233,7 +234,7 @@ const eyadOthman = {
 - 🎓 **Bachelor of Science in Artificial Intelligence**
   - **Kafr El Sheikh University (KSU)** — Faculty of Computers & Artificial Intelligence
   - 📅 _Expected Graduation: 2027_ | 🧬 _Major: AI in Biological Field_
-- 🏅 **Digital Egypt Pioneers Initiative (DEPI)** Certificate in Front-End Development _(Jan 2026)_
+- 🏅 **Digital Egypt Pioneers Initiative (DEPI)** Certificate in Front-End Development _(Dec 2025)_
 - 🏅 **National Telecommunication Institute (NTI)** Front-End Development Certificate _(July 2025)_
 
 ---
