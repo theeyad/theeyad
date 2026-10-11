@@ -1,12 +1,7 @@
 <!-- Banner Header with Dynamic Wave Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Eyad%20Othman&fontSize=52&animation=twinkle&fontAlignY=35&desc=Full-Stack%20%26%20Front-End%20Developer%20%7C%20Next.js%20%26%20React.js%20Specialist&descSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Eyad%20Othman&fontSize=52&animation=twinkle&fontAlignY=35&desc=Full-Stack%20and%20Front-End%20Developer%20%7C%20Next.js%20and%20React.js%20Specialist&descSize=20&descAlignY=62" width="100%" alt="Header Banner" />
 </p>
-
-<!-- Dynamic Animated Typing Text -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Next.js+and+React.js+Specialist;Building+Modern%2C+High-Performance+Web+Apps;TypeScript%2C+Tailwind+CSS+%26+Supabase;AI+Student+%40+Kafr+El+Sheikh+University" alt="Typing SVG" />
-</div>
 
 <br />
 
@@ -92,135 +87,113 @@ const eyadOthman = {
 
 ## 🌟 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td>
-      <h3 align="center">🛒 Baskify | Production E-Commerce Platform &nbsp; <a href="https://next-ecommerce-kappa-sable.vercel.app/"><img src="https://img.shields.io/badge/Flagship-Live%20on%20Google-success?style=flat-square" alt="Flagship Project" /></a></h3>
-      <p align="center">
-        <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16.3-black?style=flat-square&logo=next.js&logoColor=white" /></a>
-        <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19.0-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a>
-        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
-        <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-v4.0-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></a>
-        <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-Database%20%26%20Auth-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /></a>
-        <a href="https://stripe.com/"><img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat-square&logo=stripe&logoColor=white" /></a>
-        <a href="https://tanstack.com/"><img src="https://img.shields.io/badge/TanStack_Query-v5-FF4154?style=flat-square&logo=reactquery&logoColor=white" /></a>
-        <a href="https://zustand-demo.pmnd.rs/"><img src="https://img.shields.io/badge/Zustand-State-764ABC?style=flat-square&logo=react&logoColor=white" /></a>
-      </p>
-      <p>
-        <b>Baskify</b> is a full-featured production e-commerce platform built with <b>Next.js 16 (App Router & Turbopack)</b>, <b>React 19</b>, <b>Supabase (PostgreSQL & SSR Auth)</b>, <b>Stripe Payments</b>, and <b>Tailwind CSS v4</b>. Ranked and indexed live on the <b>first page of Google search results</b>.
-      </p>
-      <ul>
-        <li><b>🔐 Frictionless Authentication & 6-Digit Email OTP:</b> Custom auth flow with Supabase SSR cookies, Google OAuth, and an in-tab 6-digit email verification code that preserves cart state and returns buyers directly to checkout without external redirects.</li>
-        <li><b>🛡️ Thread-Safe Inventory & Race Condition Defense:</b> Atomic PostgreSQL RPC functions (<code>decrement_product_stock</code>), database constraints (<code>stripe_payment_intent_id</code>), and automated Stripe refund fallback to eliminate overselling and duplicate webhook processing.</li>
-        <li><b>⚡ Targeted Server Actions (<code>useAdminMutation</code>):</b> Custom client hook integrating Next.js Server Actions with TanStack Query. Triggers targeted cache key invalidations exclusively for affected entities for 0ms catalog freshness and instant toast feedback.</li>
-        <li><b>📈 Advanced SEO & Search Engine Indexing:</b> Dynamic OpenGraph generation via <code>@vercel/og</code>, Schema.org JSON-LD structured data, dynamic sitemap, and Google Search Console optimization.</li>
-        <li><b>📦 Open-Source Contribution:</b> Decoupled and open-sourced the standalone <a href="https://github.com/theeyad/image-upload-handler-for-supabase-and-nextjs"><b>Image Upload Handler for Supabase & Next.js</b></a>.</li>
-      </ul>
-      <p align="center">
-        <a href="https://next-ecommerce-kappa-sable.vercel.app/"><b>🌐 See Live Platform »</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-        <a href="https://github.com/theeyad/Baskify"><b>💻 View Repository »</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🛒 Baskify | Production E-Commerce Platform
+<p>
+  <a href="https://next-ecommerce-kappa-sable.vercel.app/"><img src="https://img.shields.io/badge/Flagship-Live%20on%20Google-success?style=flat-square" alt="Flagship Project" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16.3-black?style=flat-square&logo=next.js&logoColor=white" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19.0-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-v4.0-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></a>
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-Database%20%26%20Auth-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /></a>
+  <a href="https://stripe.com/"><img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat-square&logo=stripe&logoColor=white" /></a>
+  <a href="https://tanstack.com/"><img src="https://img.shields.io/badge/TanStack_Query-v5-FF4154?style=flat-square&logo=reactquery&logoColor=white" /></a>
+  <a href="https://zustand-demo.pmnd.rs/"><img src="https://img.shields.io/badge/Zustand-State-764ABC?style=flat-square&logo=react&logoColor=white" /></a>
+</p>
 
-<br />
+> **Baskify** is a full-featured production e-commerce platform built with **Next.js 16 (App Router & Turbopack)**, **React 19**, **Supabase (PostgreSQL & SSR Auth)**, **Stripe Payments**, and **Tailwind CSS v4**. Ranked and indexed live on the **first page of Google search results**.
 
-<table width="100%">
-  <tr>
-    <td>
-      <h3 align="center">📡 Beacon | Task & Analytics Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" />
-      </p>
-      <ul>
-        <li>Protected routing with <b>React Router DOM</b> and role-based access management.</li>
-        <li>Server state caching with <b>TanStack Query</b> and decoupled client state via <b>Zustand</b>.</li>
-        <li>Dynamic, interactive data analytics visualization rendered with <b>Recharts</b>.</li>
-        <li>Modular frontend architecture featuring code splitting, Error Boundaries, and accessible portal modals.</li>
-      </ul>
-      <p align="center">
-        <a href="https://react-dashboard-kappa-five.vercel.app/dashboard"><b>🌐 See Live Project »</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+- 🔐 **Frictionless Authentication & 6-Digit Email OTP:** Custom auth flow with Supabase SSR cookies, Google OAuth, and an in-tab 6-digit email verification code that preserves cart state and returns buyers directly to checkout without external redirects.
+- 🛡️ **Thread-Safe Inventory & Race Condition Defense:** Atomic PostgreSQL RPC functions (<code>decrement_product_stock</code>), database constraints (<code>stripe_payment_intent_id</code>), and automated Stripe refund fallback to eliminate overselling and duplicate webhook processing.
+- ⚡ **Targeted Server Actions (<code>useAdminMutation</code>):** Custom client hook integrating Next.js Server Actions with TanStack Query. Triggers targeted cache key invalidations exclusively for affected entities for 0ms catalog freshness and instant toast feedback.
+- 📈 **Advanced SEO & Search Engine Indexing:** Dynamic OpenGraph generation via <code>@vercel/og</code>, Schema.org JSON-LD structured data, dynamic sitemap, and Google Search Console optimization.
+- 📦 **Open-Source Contribution:** Decoupled and open-sourced the standalone [**Image Upload Handler for Supabase & Next.js**](https://github.com/theeyad/image-upload-handler-for-supabase-and-nextjs).
 
-<br />
+<p>
+  <a href="https://next-ecommerce-kappa-sable.vercel.app/"><b>🌐 See Live Platform »</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/theeyad/Baskify"><b>💻 View Repository »</b></a>
+</p>
 
-<table width="100%">
-  <tr>
-    <td>
-      <h3 align="center">🩺 E-HSPTL | Healthcare Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
-      </p>
-      <ul>
-        <li>Full-stack MERN application for doctor directories, patient records, and real-time appointment booking.</li>
-        <li>Live healthcare provider discovery and location tracking via <b>Google Places & Maps API</b>.</li>
-        <li>Interactive administrative dashboard and streamlined patient/doctor workflows.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/theeyad/E-HSPTL"><b>💻 View Repository »</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+---
 
-<br />
+### 📡 Beacon | Task & Analytics Platform
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" />
+</p>
 
-<table width="100%">
-  <tr>
-    <td>
-      <h3 align="center">🏛️ Al-Adl Organization | Legal Services Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-      <ul>
-        <li>Architected and developed a responsive multi-page web platform tailored for the legal and human rights sector.</li>
-        <li>Built with custom semantic <b>HTML5</b>, responsive <b>CSS3</b> layouts, and interactive <b>JavaScript</b>.</li>
-        <li><b>Freelance Client Deliverable</b> <i>(Oct 2025 – Dec 2025)</i> focusing on mobile responsiveness and SEO.</li>
-      </ul>
-      <p align="center">
-        <a href="https://theeyad.github.io/Al-Adl-Orgainization/"><b>🌐 See Live Project »</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+> Interactive dashboard and task management suite focused on dynamic data visualization, protected routes, and responsive analytics.
 
-<br />
+- Protected routing with **React Router DOM** and role-based access management.
+- Server state caching with **TanStack Query** and decoupled client state via **Zustand**.
+- Dynamic, interactive data analytics visualization rendered with **Recharts**.
+- Modular frontend architecture featuring code splitting, Error Boundaries, and accessible portal modals.
 
-<table width="100%">
-  <tr>
-    <td>
-      <h3 align="center">💼 Personal Portfolio Website</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
-      <ul>
-        <li>Interactive personal portfolio showcasing production web applications, technical skillsets, and career journey.</li>
-        <li>Engineered with modern component patterns, fluid responsive layouts, and modern design aesthetics.</li>
-        <li>Includes interactive skills matrix and instant direct contact channels.</li>
-      </ul>
-      <p align="center">
-        <a href="https://eyad-osman.vercel.app/"><b>🌐 See Live Portfolio »</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://react-dashboard-kappa-five.vercel.app/dashboard"><b>🌐 See Live Project »</b></a>
+</p>
+
+---
+
+### 🩺 E-HSPTL | Healthcare Platform
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+
+> Full-stack healthcare portal connecting patients with verified medical professionals and live location routing.
+
+- Full-stack MERN application for doctor directories, patient records, and real-time appointment booking.
+- Live healthcare provider discovery and location tracking via **Google Places & Maps API**.
+- Interactive administrative dashboard and streamlined patient/doctor workflows.
+
+<p>
+  <a href="https://github.com/theeyad/E-HSPTL"><b>💻 View Repository »</b></a>
+</p>
+
+---
+
+### 🏛️ Al-Adl Organization | Legal Services Platform
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+> Accessible multi-page client deliverable built for the legal and human rights sector.
+
+- Architected and developed a responsive multi-page web platform tailored for the legal and human rights sector.
+- Built with custom semantic **HTML5**, responsive **CSS3** layouts, and interactive **JavaScript**.
+- **Freelance Client Deliverable** *(Oct 2025 – Dec 2025)* focusing on mobile responsiveness and SEO.
+
+<p>
+  <a href="https://theeyad.github.io/Al-Adl-Orgainization/"><b>🌐 See Live Project »</b></a>
+</p>
+
+---
+
+### 💼 Personal Portfolio Website
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
+
+> Personal portfolio platform highlighting production web applications, skills matrix, and interactive contact channels.
+
+- Interactive personal portfolio showcasing production web applications, technical skillsets, and career journey.
+- Engineered with modern component patterns, fluid responsive layouts, and modern design aesthetics.
+- Includes interactive skills matrix and instant direct contact channels.
+
+<p>
+  <a href="https://eyad-osman.vercel.app/"><b>🌐 See Live Portfolio »</b></a>
+</p>
 
 ---
 
