@@ -1,11 +1,11 @@
 <!-- Banner Header with Dynamic Wave Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Eyad%20Othman&fontSize=52&animation=twinkle&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React.js%20and%20Next.js%20Specialist&descSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Eyad%20Othman&fontSize=52&animation=twinkle&fontAlignY=35&desc=Full-Stack%20%26%20Front-End%20Developer%20%7C%20Next.js%20%26%20React.js%20Specialist&descSize=20&descAlignY=62" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Dynamic Animated Typing Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Next.js+and+React.js+Specialist;Building+Modern%2C+High-Performance+Web+Apps;TypeScript+and+Tailwind+CSS+Expert;AI+Student+%40+Kafr+El+Sheikh+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Next.js+and+React.js+Specialist;Building+Modern%2C+High-Performance+Web+Apps;TypeScript%2C+Tailwind+CSS+%26+Supabase;AI+Student+%40+Kafr+El+Sheikh+University" alt="Typing SVG" />
 </div>
 
 <br />
@@ -31,23 +31,24 @@
 
 ## ⚡ About Me
 
-> _"Crafting pixel-perfect, accessible, and high-performance user interfaces with modern web standards."_
+> _"Crafting pixel-perfect, accessible, and high-performance web applications with modern engineering standards."_
 
-Frontend Developer with hands-on experience architecting production web applications using **Next.js**, **React.js**, **TypeScript**, and **Tailwind CSS**. Experienced in freelance client deliverables, and intensive technical bootcamps (**DEPI** & **NTI**). Currently studying Artificial Intelligence at **Kafr El Sheikh University**.
+Full-Stack & Front-End Developer with hands-on experience architecting production web applications using **Next.js**, **React.js**, **TypeScript**, **Tailwind CSS**, and **Supabase**. Passionate about performance, database integrity, and scalable architectures. Experienced in client deliverables and intensive technical bootcamps (**DEPI** & **NTI**). Currently studying Artificial Intelligence at **Kafr El Sheikh University**.
 
 ```javascript
 const eyadOthman = {
   code: ["TypeScript", "JavaScript", "React.js", "Next.js", "TailwindCSS"],
-  architecture: ["SSR", "SSG", "ISR", "SPA", "Atomic Design"],
+  backendAndCloud: ["Supabase", "PostgreSQL (Atomic RPC)", "Stripe Payments"],
+  architecture: ["SSR", "SSG", "ISR", "Edge Proxy", "Atomic Design"],
   stateManagement: ["Zustand", "TanStack Query", "Context API"],
   education: "B.Sc. in Artificial Intelligence @ KSU (2023 - 2027)",
-  currentFocus: "Next.js App Router, Micro-Interactions & UI Performance",
+  currentFocus: "Next.js App Router, E-Commerce Infrastructure & UI Performance",
 };
 ```
 
 ---
 
-## 🎨 Tech Stack & Expertise
+## 🛠️ Tech Stack & Ecosystem
 
 <p align="center">
   <!-- Core Frameworks -->
@@ -63,128 +64,159 @@ const eyadOthman = {
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <br />
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <br />
   <!-- State & Tools -->
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 🛠️ Detailed Skill Matrix
+### 📊 Detailed Skill Matrix
 
-| Category              | Technologies & Tools                                                                    |
-| :-------------------- | :-------------------------------------------------------------------------------------- |
-| **Languages**         | `TypeScript`, `JavaScript (ES6+)`, `HTML5`, `CSS3`, `SASS`                              |
-| **Frameworks & UI**   | `Next.js`, `React.js`, `Tailwind CSS`, `shadcn/ui`, `Material UI`, `Bootstrap`          |
-| **State & Data**      | `Zustand`, `TanStack Query (React Query)`, `REST APIs`, `Context API`                   |
-| **Performance & Ops** | `Code Splitting`, `Lazy Loading`, `Error Boundaries`, `CSR / SSR / SSG / ISR`, `Git / GitHub` |
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `TypeScript`, `JavaScript (ES6+)`, `HTML5`, `CSS3`, `SASS` |
+| **Frameworks & UI** | `Next.js 16 (App Router)`, `React.js 19`, `Tailwind CSS v4`, `shadcn/ui`, `Material UI`, `Bootstrap` |
+| **Backend & Cloud** | `Supabase (PostgreSQL & SSR Auth)`, `Stripe Payments`, `Node.js`, `Express.js`, `REST APIs` |
+| **State & Caching** | `TanStack Query (React Query v5)`, `Zustand`, `Context API`, `Cache Invalidation` |
+| **Architecture & Ops** | `Atomic RPCs`, `Idempotency`, `Row-Level Security (RLS)`, `CSR / SSR / SSG / ISR`, `Git / GitHub` |
 
 ---
 
-## 🚀 Featured Web Projects
+## 🌟 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">📊 Task & Analytics Dashboard</h3>
+    <td>
+      <h3 align="center">🛒 Baskify | Production E-Commerce Platform &nbsp; <a href="https://next-ecommerce-kappa-sable.vercel.app/"><img src="https://img.shields.io/badge/Flagship-Live%20on%20Google-success?style=flat-square" alt="Flagship Project" /></a></h3>
+      <p align="center">
+        <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16.3-black?style=flat-square&logo=next.js&logoColor=white" /></a>
+        <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19.0-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+        <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-v4.0-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></a>
+        <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-Database%20%26%20Auth-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /></a>
+        <a href="https://stripe.com/"><img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat-square&logo=stripe&logoColor=white" /></a>
+        <a href="https://tanstack.com/"><img src="https://img.shields.io/badge/TanStack_Query-v5-FF4154?style=flat-square&logo=reactquery&logoColor=white" /></a>
+        <a href="https://zustand-demo.pmnd.rs/"><img src="https://img.shields.io/badge/Zustand-State-764ABC?style=flat-square&logo=react&logoColor=white" /></a>
+      </p>
+      <p>
+        <b>Baskify</b> is a full-featured production e-commerce platform built with <b>Next.js 16 (App Router & Turbopack)</b>, <b>React 19</b>, <b>Supabase (PostgreSQL & SSR Auth)</b>, <b>Stripe Payments</b>, and <b>Tailwind CSS v4</b>. Ranked and indexed live on the <b>first page of Google search results</b>.
+      </p>
+      <ul>
+        <li><b>🔐 Frictionless Authentication & 6-Digit Email OTP:</b> Custom auth flow with Supabase SSR cookies, Google OAuth, and an in-tab 6-digit email verification code that preserves cart state and returns buyers directly to checkout without external redirects.</li>
+        <li><b>🛡️ Thread-Safe Inventory & Race Condition Defense:</b> Atomic PostgreSQL RPC functions (<code>decrement_product_stock</code>), database constraints (<code>stripe_payment_intent_id</code>), and automated Stripe refund fallback to eliminate overselling and duplicate webhook processing.</li>
+        <li><b>⚡ Targeted Server Actions (<code>useAdminMutation</code>):</b> Custom client hook integrating Next.js Server Actions with TanStack Query. Triggers targeted cache key invalidations exclusively for affected entities for 0ms catalog freshness and instant toast feedback.</li>
+        <li><b>📈 Advanced SEO & Search Engine Indexing:</b> Dynamic OpenGraph generation via <code>@vercel/og</code>, Schema.org JSON-LD structured data, dynamic sitemap, and Google Search Console optimization.</li>
+        <li><b>📦 Open-Source Contribution:</b> Decoupled and open-sourced the standalone <a href="https://github.com/theeyad/image-upload-handler-for-supabase-and-nextjs"><b>Image Upload Handler for Supabase & Next.js</b></a>.</li>
+      </ul>
+      <p align="center">
+        <a href="https://next-ecommerce-kappa-sable.vercel.app/"><b>🌐 See Live Platform »</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+        <a href="https://github.com/theeyad/Baskify"><b>💻 View Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td>
+      <h3 align="center">📡 Beacon | Task & Analytics Platform</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" />
       </p>
       <ul>
-        <li>Protected routing with <b>React Router DOM</b></li>
-        <li>Server state caching with <b>TanStack Query</b> & global state via <b>Zustand</b></li>
-        <li>Dynamic analytics charts rendered with <b>Recharts</b></li>
-        <li>Code splitting, Error Boundaries & Portal modals</li>
+        <li>Protected routing with <b>React Router DOM</b> and role-based access management.</li>
+        <li>Server state caching with <b>TanStack Query</b> and decoupled client state via <b>Zustand</b>.</li>
+        <li>Dynamic, interactive data analytics visualization rendered with <b>Recharts</b>.</li>
+        <li>Modular frontend architecture featuring code splitting, Error Boundaries, and accessible portal modals.</li>
       </ul>
       <p align="center">
-        <a href="https://react-dashboard-kappa-five.vercel.app/dashboard"><b>See Live Project »</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛍️ MAISON | Luxury Catalog</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-      </p>
-      <ul>
-        <li>High-end product catalog built with <b>Next.js</b> & <b>TypeScript</b></li>
-        <li>Full <b>ISR (Incremental Static Regeneration)</b> & <b>SSR</b></li>
-        <li>Sleek dark/light UI design styled with <b>shadcn/ui</b></li>
-        <li>Optimized core web vitals & responsive layout</li>
-      </ul>
-      <p align="center">
-        <a href="https://next-product-catalog-eight.vercel.app/"><b>See Live Project »</b></a>
+        <a href="https://react-dashboard-kappa-five.vercel.app/dashboard"><b>🌐 See Live Project »</b></a>
       </p>
     </td>
   </tr>
+</table>
+
+<br />
+
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">📝 EO-Blogs | Blogging Platform</h3>
+    <td>
+      <h3 align="center">🩺 E-HSPTL | Healthcare Platform</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
-      <ul>
-        <li>Full <b>SSR</b> and <b>SSG</b> implementation for maximum SEO</li>
-        <li>Dynamic blog rendering & responsive reading layout</li>
-        <li>Type-safe data fetching architecture</li>
-      </ul>
-      <p align="center">
-        <a href="https://next-blog-app-one-tau.vercel.app/"><b>See Live Project »</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏥 E-HSPTL | Healthcare Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MERN-Fullstack-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
       </p>
       <ul>
-        <li>MERN-stack platform for doctor directories & appointments</li>
-        <li>Live location tracking via <b>Google Places API</b></li>
-        <li>Interactive admin dashboard and client workflows</li>
+        <li>Full-stack MERN application for doctor directories, patient records, and real-time appointment booking.</li>
+        <li>Live healthcare provider discovery and location tracking via <b>Google Places & Maps API</b>.</li>
+        <li>Interactive administrative dashboard and streamlined patient/doctor workflows.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/theeyad/E-HSPTL"><b>View Repository »</b></a>
+        <a href="https://github.com/theeyad/E-HSPTL"><b>💻 View Repository »</b></a>
       </p>
     </td>
   </tr>
+</table>
+
+<br />
+
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">⚖️ Al-Adl Organization</h3>
+    <td>
+      <h3 align="center">🏛️ Al-Adl Organization | Legal Services Platform</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
       <ul>
-        <li>Architected & developed a responsive multi-page website tailored for the legal sector</li>
-        <li>Built with custom semantic <b>HTML5</b>, responsive <b>CSS3</b> layouts & <b>JavaScript</b></li>
-        <li>Freelance Client Deliverable <i>(Oct 2025 – Dec 2025)</i></li>
+        <li>Architected and developed a responsive multi-page web platform tailored for the legal and human rights sector.</li>
+        <li>Built with custom semantic <b>HTML5</b>, responsive <b>CSS3</b> layouts, and interactive <b>JavaScript</b>.</li>
+        <li><b>Freelance Client Deliverable</b> <i>(Oct 2025 – Dec 2025)</i> focusing on mobile responsiveness and SEO.</li>
       </ul>
       <p align="center">
-        <a href="https://theeyad.github.io/Al-Adl-Orgainization/"><b>See Live Project »</b></a>
+        <a href="https://theeyad.github.io/Al-Adl-Orgainization/"><b>🌐 See Live Project »</b></a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🌐 Personal Portfolio Website</h3>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td>
+      <h3 align="center">💼 Personal Portfolio Website</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
       <ul>
-        <li>Interactive personal portfolio showcasing featured web applications, services, and career journey</li>
-        <li>Built with modern component engineering, responsive layouts, and modern design aesthetics</li>
-        <li>Includes skills matrix, and instant contact channels</li>
+        <li>Interactive personal portfolio showcasing production web applications, technical skillsets, and career journey.</li>
+        <li>Engineered with modern component patterns, fluid responsive layouts, and modern design aesthetics.</li>
+        <li>Includes interactive skills matrix and instant direct contact channels.</li>
       </ul>
       <p align="center">
-        <a href="https://eyad-osman.vercel.app/"><b>See Live Portfolio »</b></a>
+        <a href="https://eyad-osman.vercel.app/"><b>🌐 See Live Portfolio »</b></a>
       </p>
     </td>
   </tr>
@@ -192,7 +224,7 @@ const eyadOthman = {
 
 ---
 
-## 💼 Experience & Training Journey
+## 📈 Experience & Journey
 
 ```
    2023 ───►  Enrollment @ Kafr El Sheikh University (B.Sc. in AI)
@@ -201,22 +233,22 @@ const eyadOthman = {
    2026 ───►  Digital Egypt Pioneers Initiative (DEPI) Graduate (June 2025 - Jan 2026)
 ```
 
-- 🏢 **Freelance Front-End Developer** _(Oct 2025 – Present)_
-  - Architecting high-quality responsive web solutions, multi-page client websites, and modular UI component libraries.
-- 🎓 **Front-End Development Trainee** | _Digital Egypt Pioneers Initiative (DEPI)_ _(June 2025 – Jan 2026)_
+- 💼 **Freelance Full-Stack & Front-End Developer** _(Oct 2025 – Present)_
+  - Architecting high-quality responsive web solutions, production client applications, and modular UI component libraries.
+- 🏛️ **Front-End Development Trainee** | _Digital Egypt Pioneers Initiative (DEPI)_ _(June 2025 – Jan 2026)_
   - Government-sponsored program mastering React.js architectures, Tailwind CSS, UI/UX engineering, and best practices.
-- 📜 **Front-End Bootcamp Trainee** | _National Telecommunication Institute (NTI)_ _(July 2025)_
+- 🎯 **Front-End Bootcamp Trainee** | _National Telecommunication Institute (NTI)_ _(July 2025)_
   - Translated complex Figma design mockups into pixel-perfect, accessible web components.
 
 ---
 
-## 🎓 Education & Credentials
+## 🎓 Education & Certifications
 
 - 🎓 **Bachelor of Science in Artificial Intelligence**
   - **Kafr El Sheikh University (KSU)** — Faculty of Computers & Artificial Intelligence
-  - 🗓 _Expected Graduation: 2027_ | 🧬 _Major: AI in Biological Field_
-- 📜 **Digital Egypt Pioneers Initiative (DEPI)** Certificate in Front-End Development _(Jan 2026)_
-- 📜 **National Telecommunication Institute (NTI)** Front-End Development Certificate _(July 2025)_
+  - 📅 _Expected Graduation: 2027_ | 🧬 _Major: AI in Biological Field_
+- 🏅 **Digital Egypt Pioneers Initiative (DEPI)** Certificate in Front-End Development _(Jan 2026)_
+- 🏅 **National Telecommunication Institute (NTI)** Front-End Development Certificate _(July 2025)_
 
 ---
 
@@ -226,7 +258,7 @@ const eyadOthman = {
 </p>
 
 <p align="center">
-  <b>Connect with me:</b><br />
+  <b>Let's Connect & Collaborate:</b><br />
   <a href="https://linkedin.com/in/eyad-othman">LinkedIn</a> • 
   <a href="mailto:eyadosman35@gmail.com">Email</a> • 
   <a href="https://wa.me/201150440572">WhatsApp</a> • 
