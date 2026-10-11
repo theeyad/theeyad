@@ -108,9 +108,9 @@ const eyadOthman = {
 - 📈 **Advanced SEO & Search Engine Indexing:** Dynamic OpenGraph generation via <code>@vercel/og</code>, Schema.org JSON-LD structured data, dynamic sitemap, and Google Search Console optimization.
 - 📦 **Open-Source Contribution:** Decoupled and open-sourced the standalone [**Image Upload Handler for Supabase & Next.js**](https://github.com/theeyad/image-upload-handler-for-supabase-and-nextjs).
 
-<p>
-  <a href="https://next-ecommerce-kappa-sable.vercel.app/"><b>🌐 See Live Platform »</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/theeyad/Baskify"><b>💻 View Repository »</b></a>
+<p align="center">
+  <a href="https://next-ecommerce-kappa-sable.vercel.app/" style="text-decoration: none;"><b>🌐 See Live Platform »</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/theeyad/Baskify" style="text-decoration: none;"><b>💻 View Repository »</b></a>
 </p>
 
 ---
