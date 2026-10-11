@@ -87,10 +87,8 @@ const eyadOthman = {
 
 ## 🌟 Featured Projects
 
+<h3 align="center">🛒 Baskify | Production E-Commerce Platform</h3>
 <p align="center">
-  <h3>🛒 Baskify | Production E-Commerce Platform</h3>
-</p>
-<p>
   <a href="https://next-ecommerce-kappa-sable.vercel.app/"><img src="https://img.shields.io/badge/Flagship-Live%20on%20Google-success?style=flat-square" alt="Flagship Project" /></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16.3-black?style=flat-square&logo=next.js&logoColor=white" /></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19.0-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a>
@@ -111,14 +109,19 @@ const eyadOthman = {
 - 📦 **Open-Source Contribution:** Decoupled and open-sourced the standalone [**Image Upload Handler for Supabase & Next.js**](https://github.com/theeyad/image-upload-handler-for-supabase-and-nextjs).
 
 <p align="center">
-  <a href="https://next-ecommerce-kappa-sable.vercel.app/" style="text-decoration: none;"><b>🌐 See Live Platform »</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/theeyad/Baskify" style="text-decoration: none;"><b>💻 View Repository »</b></a>
+  <a href="https://next-ecommerce-kappa-sable.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-0070F3?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/theeyad/Baskify" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+  </a>
 </p>
 
 ---
 
-### 📡 Beacon | Task & Analytics Platform
-<p>
+<h3 align="center">📡 Beacon | Task & Analytics Platform</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -134,14 +137,16 @@ const eyadOthman = {
 - Dynamic, interactive data analytics visualization rendered with **Recharts**.
 - Modular frontend architecture featuring code splitting, Error Boundaries, and accessible portal modals.
 
-<p>
-  <a href="https://react-dashboard-kappa-five.vercel.app/dashboard"><b>🌐 See Live Project »</b></a>
+<p align="center">
+  <a href="https://react-dashboard-kappa-five.vercel.app/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-0070F3?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
 </p>
 
 ---
 
-### 🩺 E-HSPTL | Healthcare Platform
-<p>
+<h3 align="center">🩺 E-HSPTL | Healthcare Platform</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -155,14 +160,16 @@ const eyadOthman = {
 - Live healthcare provider discovery and location tracking via **Google Places & Maps API**.
 - Interactive administrative dashboard and streamlined patient/doctor workflows.
 
-<p>
-  <a href="https://github.com/theeyad/E-HSPTL"><b>💻 View Repository »</b></a>
+<p align="center">
+  <a href="https://github.com/theeyad/E-HSPTL" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+  </a>
 </p>
 
 ---
 
-### 🏛️ Al-Adl Organization | Legal Services Platform
-<p>
+<h3 align="center">🏛️ Al-Adl Organization | Legal Services Platform</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -174,14 +181,16 @@ const eyadOthman = {
 - Built with custom semantic **HTML5**, responsive **CSS3** layouts, and interactive **JavaScript**.
 - **Freelance Client Deliverable** *(Oct 2025 – Dec 2025)* focusing on mobile responsiveness and SEO.
 
-<p>
-  <a href="https://theeyad.github.io/Al-Adl-Orgainization/"><b>🌐 See Live Project »</b></a>
+<p align="center">
+  <a href="https://theeyad.github.io/Al-Adl-Orgainization/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-E34F26?style=flat-square&logo=githubpages&logoColor=white" alt="Live Demo" />
+  </a>
 </p>
 
 ---
 
-### 💼 Personal Portfolio Website
-<p>
+<h3 align="center">💼 Personal Portfolio Website</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -193,8 +202,10 @@ const eyadOthman = {
 - Engineered with modern component patterns, fluid responsive layouts, and modern design aesthetics.
 - Includes interactive skills matrix and instant direct contact channels.
 
-<p>
-  <a href="https://eyad-osman.vercel.app/"><b>🌐 See Live Portfolio »</b></a>
+<p align="center">
+  <a href="https://eyad-osman.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-0070F3?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
 </p>
 
 ---
