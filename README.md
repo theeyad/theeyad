@@ -87,7 +87,9 @@ const eyadOthman = {
 
 ## 🌟 Featured Projects
 
-### 🛒 Baskify | Production E-Commerce Platform
+<p align="center">
+  <h3>🛒 Baskify | Production E-Commerce Platform</h3>
+</p>
 <p>
   <a href="https://next-ecommerce-kappa-sable.vercel.app/"><img src="https://img.shields.io/badge/Flagship-Live%20on%20Google-success?style=flat-square" alt="Flagship Project" /></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16.3-black?style=flat-square&logo=next.js&logoColor=white" /></a>
